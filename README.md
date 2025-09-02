@@ -1,0 +1,2 @@
+# MasterMojka
+MasterMojka = Master + Mojka
