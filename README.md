@@ -7,4 +7,4 @@
 ### Status Model:  
 [Status Model Diagram, UML](https://github.com/X3merrr/MasterMojka/blob/main/usecase_%D0%A2%D0%97.md/ "Uml Diagram")  
 [Status Model Diagram, Unidraw](https://unidraw.io/app/board/8c96059ecf01f2dc1bb6/ "Unidraw Project")  
-[Status Model Diagram Picture](https://github.com/X3merrr/MasterMojka/blob/main/statusmodel.png/ "Png Picture")  
+![Status Model Diagram Picture](https://github.com/X3merrr/MasterMojka/blob/main/statusmodel.png/ "Png Picture")  
