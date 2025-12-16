@@ -1,5 +1,5 @@
 # MasterMojka  
-## Interview ##  (https://github.com/X3merrr/MasterMojka/blob/main/Interview.md/ "Interview")  
+## Interview (https://github.com/X3merrr/MasterMojka/blob/main/Interview.md/ "Interview") ##  
 ## Artifacts ##  
 ### Usecase:  
 [Usecase Diagram, UML](https://github.com/X3merrr/MasterMojka/blob/main/usecase.uml/ "Uml Diagram")  
