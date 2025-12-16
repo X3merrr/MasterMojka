@@ -1,5 +1,3 @@
-https://dbdiagram.io/d
-
 Table client {
   id integer [primary key]
   name string
