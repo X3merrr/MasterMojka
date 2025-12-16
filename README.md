@@ -7,7 +7,7 @@
     
 ### Status Model:  
 [Status Model Diagram, UML](https://github.com/X3merrr/MasterMojka/blob/main/usecase_%D0%A2%D0%97.md/ "Uml Diagram")  
-[Status Model Diagram, Unidraw](https://unidraw.io/app/board/8c96059ecf01f2dc1bb6/ "Unidraw Project")  
+[Status Model Diagram, Unidraw](https://github.com/X3merrr/MasterMojka/blob/main/statusmodel.unidraw/ "Unidraw Project")  
 ![Status Model Diagram Picture](https://github.com/X3merrr/MasterMojka/blob/main/statusmodel.png/ "Png Picture")  
     
 ### Erd Diagram:  
@@ -22,4 +22,5 @@
 [Server DB, UML](https://github.com/X3merrr/MasterMojka/blob/main/sequencediagramSERVER-DB.uml/ "Uml Diagram")  
     
 ### User Story Mapping:  
-[User Story Mapping, Unidraw](https://unidraw.io/app/board/c3e6f3a53b2ea5f3fc01)  
+[User Story Mapping, Unidraw](https://github.com/X3merrr/MasterMojka/blob/main/UserStoryMapping.unidraw/ "Unidraw Project")  
+![User Story Mapping, Picture](https://github.com/X3merrr/MasterMojka/blob/main/UserStoryMapping.png/ "Png Picture")  
